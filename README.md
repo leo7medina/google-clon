@@ -1,1 +1,5 @@
-# google-clon
+# Google-Clon
+
+Practica de html y csss.
+
+ESTADO: FINALIZADO
